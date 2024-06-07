@@ -1,4 +1,0 @@
-/home/krutarth/Desktop/projects/code/GPUMatrix/build/CMakeFiles/matrix.dir
-/home/krutarth/Desktop/projects/code/GPUMatrix/build/CMakeFiles/main.dir
-/home/krutarth/Desktop/projects/code/GPUMatrix/build/CMakeFiles/edit_cache.dir
-/home/krutarth/Desktop/projects/code/GPUMatrix/build/CMakeFiles/rebuild_cache.dir
